@@ -11,6 +11,7 @@ public Amphibia(String eat, String sleep, String swim, String walk) {
 	this.sleep = sleep;
 	this.swim = swim;
 	this.walk = walk;
+	
 }
 abstract void eat();
 abstract void sleep();
